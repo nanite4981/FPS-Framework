@@ -1,30 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the game that you wrote. Describe how to play your game.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+- I built this game as a test to learn the Arcade module beacause I heard it was better than Pygame.
+- I created a basic arcade game where you shoot zombies with lightning and save peasants. You move with arrows or WASD, click to kill a zombie, and move on peasants to save them.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- I developed this game in Visual Studio Code using the Arcade module.
+- My programming language was Python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Real Python](https://realpython.com/welcome/)
+* [Python Arcade](https://api.arcade.academy/en/latest/index.html#)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add effects to the lightning and peasant saving.
+* Add increasing difficulty over time or levels.
